@@ -1,4 +1,4 @@
-﻿CREATE TABLE "Departments" (
+CREATE TABLE "Departments" (
     "dept_no" VARCHAR   NOT NULL,
     "dept_name" VARCHAR   NOT NULL,
     CONSTRAINT "pk_Departments" PRIMARY KEY (
@@ -68,4 +68,3 @@ REFERENCES "Departments" ("dept_no");
 
 ALTER TABLE "Dept_Manager" ADD CONSTRAINT "fk_Dept_Manager_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "Employees" ("emp_no");
-
