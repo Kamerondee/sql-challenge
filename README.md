@@ -2,10 +2,10 @@
 
 In this challenge we were hired at as a new data engieer at Pewlett Hackard. My first major task was to conduct a research project on employees of the corporation from the 1980s and 1990s with given CSV files. After uploading the CSV files, I did this: 
 
-**Data Modeling
+**Data Modeling**
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
-**Data Engineering
+**Data Engineering**
 
 - Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
@@ -14,7 +14,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 - Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
-**Data Analysis
+**Data Analysis**
 Once you have a complete database, do the following:
 
 
