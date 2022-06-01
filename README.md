@@ -1,6 +1,6 @@
 # sql-challenge
 
-In this challenge we were hired at as a new data engieer at Pewlett Hackard. My first major task was to conduct a research project on employees of the corporation from the 1980s and 1990s with given CSV files. After uploading the CSV files, I did this: 
+In this challenge I was hired at as a new data engieer at Pewlett Hackard. My first major task was to conduct a research project on employees of the corporation from the 1980s and 1990s with given CSV files. After uploading the CSV files, I did this: 
 
 **Data Modeling**
 
